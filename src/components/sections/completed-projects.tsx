@@ -14,7 +14,7 @@ const projects = [
     image: "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&q=80",
   },
   {
-    title: "ALTARIA BOSQUE RESIDENCIAL 2",
+    title: "ALTARIA BOSQUE RESIDENCIAL",
     location: "Iguala, Guerrero",
     units: "20 unidades",
     value: "20.00 MDP",
@@ -62,7 +62,7 @@ export function CompletedProjects() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {projects.map((project, index) => (
             <motion.div
-              key={project.title}
+              key={`${project.title}-${index}`}
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: index * 0.2 }}

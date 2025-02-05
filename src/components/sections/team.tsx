@@ -1,32 +1,28 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Image from "next/image";
+import { Briefcase } from "lucide-react";
 
 const team = [
   {
     name: "Mario Danilo Elizondo Lomelí",
     role: "Director General",
     description: "Ingeniero Mecánico-Electricista, con más de 25 años de experiencia en el ramo inmobiliario. Ha sido Director Nacional de Operaciones en empresa vivienda con producción anual de 15,000 viviendas, Director Regional de la Zona Metropolitana de Guadalajara para Urbi.",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80",
   },
   {
     name: "Octavio Javalera Espinoza",
     role: "Director de Administración y Finanzas",
     description: "Contador Público, Maestría en Administración Financiera, 24 años de experiencia en el sector de construcción e inmobiliario, desempeñando puestos de Contralor de Plaza y Director de Administración y Finanzas.",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80",
   },
   {
     name: "Antonio Cuevas Pichardo",
     role: "Gerente de Construcción",
     description: "Ingeniero Civil con más de 20 años de experiencia como Gerente de Obra con más de 5000 viviendas construidas durante toda su carrera profesional, actualmente como Gerente de Construcción.",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80",
   },
   {
     name: "Sergio Ramírez Aparicio",
     role: "Asesor Legal",
     description: "Licenciado en Derecho con más de 20 años de experiencia, desempeñándose dentro de la iniciativa privada como abogado postulante y representante de la empresa de Dinámica Desarrollos Sustentables SA de CV y actualmente dentro de la iniciativa privada como abogado postulante prestando servicio para diferentes grupos inmobiliarios entre ellos INMOVILIA.",
-    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80",
   },
 ];
 
@@ -50,7 +46,7 @@ export function Team() {
           </p>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
           {team.map((member, index) => (
             <motion.div
               key={member.name}
@@ -58,25 +54,21 @@ export function Team() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: index * 0.2 }}
               viewport={{ once: true }}
-              className="group"
+              className="bg-background rounded-xl p-6 shadow-lg hover:shadow-xl transition-all group"
             >
-              <div className="relative aspect-square rounded-2xl overflow-hidden mb-4">
-                <Image
-                  src={member.image}
-                  alt={member.name}
-                  fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-110"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-              </div>
-              <div className="space-y-2">
-                <h3 className="text-xl font-semibold text-text-primary">
-                  {member.name}
-                </h3>
-                <p className="text-primary font-medium">{member.role}</p>
-                <p className="text-sm text-text-secondary line-clamp-4 group-hover:line-clamp-none transition-all">
-                  {member.description}
-                </p>
+              <div className="flex items-start gap-4">
+                <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0 group-hover:bg-primary/20 transition-colors">
+                  <Briefcase className="w-6 h-6 text-primary" />
+                </div>
+                <div className="space-y-2">
+                  <h3 className="text-xl font-semibold text-text-primary group-hover:text-primary transition-colors">
+                    {member.name}
+                  </h3>
+                  <p className="text-primary font-medium">{member.role}</p>
+                  <p className="text-text-secondary text-sm leading-relaxed">
+                    {member.description}
+                  </p>
+                </div>
               </div>
             </motion.div>
           ))}
