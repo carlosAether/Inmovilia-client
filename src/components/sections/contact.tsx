@@ -86,7 +86,7 @@ export function Contact() {
               <div>
                 <h3 className="font-semibold text-text-primary mb-2">Teléfonos</h3>
                 <p className="text-text-secondary">(33) 3165 9381</p>
-                <p className="text-text-secondary">(33) 33 2152 2219</p>
+                <p className="text-text-secondary">(33) 2152 2219</p>
               </div>
             </div>
 
