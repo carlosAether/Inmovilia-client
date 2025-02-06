@@ -2,8 +2,6 @@ import { Hero } from "@/components/sections/hero";
 import { AboutUs } from "@/components/sections/about-us";
 import { RealEstateProposal } from "@/components/sections/real-estate-proposal";
 import { MissionVision } from "@/components/sections/mission-vision";
-import { Team } from "@/components/sections/team";
-import { Organization } from "@/components/sections/organization";
 import { CurrentProjects } from "@/components/sections/current-projects";
 import { CompletedProjects } from "@/components/sections/completed-projects";
 import { Prototypes } from "@/components/sections/prototypes";
@@ -17,8 +15,6 @@ export default function Home() {
       <AboutUs />
       <RealEstateProposal />
       <MissionVision />
-      <Team />
-      <Organization />
       <CurrentProjects />
       <CompletedProjects />
       <Prototypes />

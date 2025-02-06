@@ -68,7 +68,7 @@ export function AboutUs() {
               viewport={{ once: true }}
             >
               <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-4">
-                Quiénes Somos
+                Antecedentes
               </h2>
               <div className="h-1 w-20 bg-primary rounded-full mb-6" />
             </motion.div>
@@ -81,15 +81,10 @@ export function AboutUs() {
               className="space-y-4"
             >
               <p className="text-lg text-text-secondary">
-                Somos un grupo de empresarios profesionales, aliados estratégicamente para apoyar a
-                nuestros clientes, en la satisfacción de las necesidades que surgen en los diversos
-                servicios de Desarrollo inmobiliario.
+                Desde 2010, INMOVILIA se ha consolidado como una empresa líder en el desarrollo de proyectos inmobiliarios intraurbanos de alta calidad. Nos especializamos en la creación de espacios que mejoran la calidad de vida de nuestros clientes.
               </p>
               <p className="text-lg text-text-secondary">
-                Inversiones Inmobiliarias, tales como la compra, venta, renta entre otros. Brindar un
-                servicio de excelencia, generando soluciones adecuadas a cada caso concreto, a través
-                de la experiencia compartida de todos nuestros colaboradores, así como el trabajo en
-                conjunto con nuestras empresas asociadas.
+                Nuestro enfoque se centra en el desarrollo de proyectos estratégicamente ubicados, con infraestructura y servicios de primera calidad, garantizando inversiones sólidas y sustentables para nuestros clientes.
               </p>
             </motion.div>
           </div>

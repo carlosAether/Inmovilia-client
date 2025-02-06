@@ -30,11 +30,11 @@ const socialLinks = [
 const footerLinks = [
   {
     title: "Empresa",
-    links: ["Sobre Nosotros", "Equipo", "Misión y Visión"],
+    links: ["Antecedentes", "Misión y Visión"],
   },
   {
     title: "Proyectos",
-    links: ["En Desarrollo", "Completados", "Prototipos"],
+    links: ["En Desarrollo", "Concluidos", "Prototipos"],
   },
 ];
 
