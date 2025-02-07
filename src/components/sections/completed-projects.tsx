@@ -10,28 +10,28 @@ const projects = [
     location: "Zapopan, Jalisco",
     units: "352 viviendas",
     year: "2022",
-    image: "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&q=80",
-  },
-  {
-    title: "ALTARIA RESIDENCIAL",
-    location: "Iguala, Guerrero",
-    units: "20 viviendas",
-    year: "2019",
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80",
+    image: "/Altaria.jpeg",
   },
   {
     title: "SAN MARINO",
     location: "Rosarito, Baja California",
     units: "18 lotes",
     year: "2020",
-    image: "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&q=80",
+    image: "/Marino.jpeg",
   },
   {
     title: "PLATINUM",
     location: "Tonalá, Jalisco",
     units: "18 unidades",
     year: "2015",
-    image: "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&q=80",
+    image: "/Vive.jpeg",
+  },
+  {
+    title: "ALTARIA RESIDENCIAL",
+    location: "Iguala, Guerrero",
+    units: "20 viviendas",
+    year: "2019",
+    image: "/Altaria.jpeg",
   },
 ];
 

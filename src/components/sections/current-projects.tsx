@@ -10,7 +10,7 @@ const projects = [
     location: "Nuevo Vallarta",
     units: "43 unidades",
     year: "2024",
-    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&q=80",
+    image: "/Porto.jpg",
     link: "https://www.armada.com.mx/sitio/clientes/porto-360/",
   },
 ];
