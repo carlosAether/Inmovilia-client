@@ -1,0 +1,254 @@
+{
+  "hero": {
+    "since": "Since 2010",
+    "title": "High-Quality Urban Real Estate Development",
+    "subtitle": "We create exceptional spaces with first-class infrastructure and services, strategically located to enhance your quality of life",
+    "contactButton": "Contact Us",
+    "projectsButton": "View Projects"
+  },
+  "about": {
+    "title": "Background",
+    "description1": "Since 2010, INMOVILIA has established itself as a leading company in high-quality urban real estate development. We specialize in creating spaces that enhance our clients' quality of life.",
+    "description2": "Our focus is on developing strategically located projects with first-class infrastructure and services, ensuring solid and sustainable investments for our clients.",
+    "services": {
+      "title": "Our Services",
+      "building": "CONSTRUCTION",
+      "commercialization": "COMMERCIALIZATION",
+      "investment": "INVESTMENT PROJECTS",
+      "marketStudies": "MARKET STUDIES",
+      "alliances": "ALLIANCES AND CO-INVESTMENTS",
+      "financing": "FINANCING SOURCES",
+      "propertyManagement": "PROPERTY MANAGEMENT",
+      "procedures": "PROCEDURES"
+    }
+  },
+  "proposal": {
+    "since": "Since June 3rd, 2010",
+    "title": "Our Real Estate Proposal",
+    "subtitle": "INMOVILIA S.A. de C.V. was created with the vision of developing urban projects to efficiently meet our clients' needs. We focus on two main aspects to offer the best real estate solution.",
+    "features": {
+      "ownDevelopments": {
+        "title": "Own Developments",
+        "description": "We create urban developments with existing infrastructure and services, ensuring the best quality of life for our clients."
+      },
+      "strategicLocation": {
+        "title": "Strategic Location",
+        "description": "Our developments feature easily accessible roads and transportation, with location being one of our key differentiators."
+      },
+      "efficientResponse": {
+        "title": "Efficient Response",
+        "description": "We focus on providing an efficient response to our clients' needs through well-planned developments."
+      },
+      "supplyGeneration": {
+        "title": "Supply Generation",
+        "description": "We develop projects within existing residential areas and zones, taking advantage of existing infrastructure."
+      }
+    }
+  },
+  "missionVision": {
+    "title": "Mission and Vision",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To be the leading company in comprehensive service to our clients, investors, and strategic partners in real estate developments, to achieve complete satisfaction and trust, based on an experienced team of industry professionals."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be recognized as the leading company in urban real estate development, characterized by quality, innovation, and commitment to our clients."
+    }
+  },
+  "currentProjects": {
+    "title": "Projects in Progress",
+    "subtitle": "Discover our real estate developments under construction",
+    "viewProject": "View Project",
+    "location": "Location",
+    "units": "Units"
+  },
+  "completedProjects": {
+    "title": "Completed Projects",
+    "subtitle": "Explore our finished real estate developments",
+    "completed": "Completed",
+    "location": "Location",
+    "units": "Units"
+  },
+  "prototypes": {
+    "title": "Prototypes",
+    "subtitle": "Explore our housing models designed for you",
+    "requestInfo": "Request Information",
+    "details": {
+      "area": "Area",
+      "bedrooms": "Bedrooms",
+      "bathrooms": "Bathrooms",
+      "type": "Type"
+    },
+    "models": {
+      "dalea": {
+        "description": "Contemporary design with spacious areas and luxury finishes."
+      },
+      "pinus": {
+        "description": "Optimized spaces with modern and functional design."
+      }
+    },
+    "imagePreview": {
+      "counter": "{current} / {total}",
+      "close": "Close",
+      "prev": "Previous",
+      "next": "Next"
+    }
+  },
+  "team": {
+    "title": "Who Makes Up INMOVILIA",
+    "subtitle": "A team of professionals with extensive experience in the real estate sector",
+    "members": {
+      "director": {
+        "name": "Mario Danilo Elizondo Lomelí",
+        "role": "General Director",
+        "description": "Mechanical-Electrical Engineer with over 25 years of experience in real estate. Former National Operations Director for a housing company with annual production of 15,000 homes, Regional Director of the Guadalajara Metropolitan Area for Urbi."
+      },
+      "finance": {
+        "name": "Octavio Javalera Espinoza",
+        "role": "Director of Administration and Finance",
+        "description": "Certified Public Accountant with a Master's in Financial Administration, 24 years of experience in the construction and real estate sector, serving as Plaza Controller and Director of Administration and Finance."
+      },
+      "construction": {
+        "name": "Antonio Cuevas Pichardo",
+        "role": "Construction Manager",
+        "description": "Civil Engineer with over 20 years of experience as Construction Manager with more than 5,000 homes built throughout his professional career, currently serving as Construction Manager."
+      },
+      "legal": {
+        "name": "Sergio Ramírez Aparicio",
+        "role": "Legal Advisor",
+        "description": "Attorney with over 20 years of experience, working in the private sector as a trial lawyer and representative of Dinámica Desarrollos Sustentables SA de CV and currently in the private sector as a trial lawyer providing services to different real estate groups including INMOVILIA."
+      }
+    }
+  },
+  "organization": {
+    "title": "Organization Chart",
+    "subtitle": "Organizational structure designed for excellence",
+    "roles": {
+      "director": {
+        "title": "GENERAL DIRECTOR",
+        "name": "ENG. MARIO DANILO ELIZONDO LOMELI"
+      },
+      "commercial": {
+        "title": "COMMERCIAL MANAGER",
+        "name": "SERGIO RAMIREZ APARICIO"
+      },
+      "finance": {
+        "title": "ADMINISTRATION AND FINANCE",
+        "name": "OCTAVIO JAVALERA ESPINOZA"
+      },
+      "construction": {
+        "title": "CONSTRUCTION MANAGER",
+        "name": "ANTONIO CUEVAS PICHARDO"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to answer your questions and help you find your ideal home",
+    "info": {
+      "address": {
+        "title": "Address",
+        "value": "CALLE BUENOS AIRES 2770 INT 2A, Colonia Providencia, C.P. 44630, Guadalajara, Jalisco"
+      },
+      "phone": {
+        "title": "Phones",
+        "values": ["(33) 3165 9381", "(33) 2152 2219"]
+      },
+      "email": {
+        "title": "Email",
+        "value": "contacto@inmovilia.com"
+      }
+    },
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "message": "Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully",
+      "error": "Error sending message",
+      "validation": {
+        "nameRequired": "Name is required",
+        "emailInvalid": "Invalid email",
+        "phoneInvalid": "Invalid phone number",
+        "messageLength": "Message must be at least 10 characters",
+        "emailError": "Error sending email. Please try again.",
+        "generalError": "Error sending message. Please try again."
+      }
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "INMOVILIA",
+      "subtitle": "INFORMATION AND SALES"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "rights": "© 2024 INMOVILIA. All rights reserved."
+  },
+  "navigation": {
+    "home": "Home",
+    "background": "Background",
+    "proposal": "Proposal",
+    "projects": "Projects",
+    "prototypes": "Prototypes",
+    "contact": "Contact",
+    "inDevelopment": "In Development",
+    "completed": "Completed"
+  },
+  "projects": {
+    "current": {
+      "porto": {
+        "title": "PORTO RESIDENCIAL",
+        "location": "Nuevo Vallarta",
+        "units": "43 units"
+      }
+    },
+    "completed": {
+      "altariaZapopan": {
+        "title": "ALTARIA RESIDENCIAL",
+        "location": "Zapopan, Jalisco",
+        "units": "352 homes"
+      },
+      "altariaIguala": {
+        "title": "ALTARIA RESIDENCIAL",
+        "location": "Iguala, Guerrero",
+        "units": "20 homes"
+      },
+      "sanMarino": {
+        "title": "SAN MARINO",
+        "location": "Rosarito, Baja California",
+        "units": "18 lots"
+      },
+      "platinum": {
+        "title": "PLATINUM",
+        "location": "Tonalá, Jalisco",
+        "units": "18 units"
+      }
+    }
+  },
+  "prototypeDetails": {
+    "dalea": {
+      "name": "DALEA",
+      "type": "House",
+      "area": "1,615 sq ft",
+      "description": "Contemporary design with spacious areas and luxury finishes."
+    },
+    "pinus": {
+      "name": "PINUS",
+      "type": "House",
+      "area": "1,216 sq ft",
+      "description": "Optimized spaces with modern and functional design."
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error has occurred",
+    "retry": "Try again"
+  }
+} 

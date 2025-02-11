@@ -25,7 +25,7 @@ const prototypes = [
     type: "Casa",
     area: "113m²",
     bedrooms: 3,
-    bathrooms: 2,
+    bathrooms: 2.5,
     images: [
       "/PinusAlta.jpg",
       "/PinusBaja.jpg",

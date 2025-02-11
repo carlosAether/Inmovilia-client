@@ -1,0 +1,254 @@
+{
+  "hero": {
+    "since": "Desde 2010",
+    "title": "Desarrollos Inmobiliarios Intraurbanos de Alta Calidad",
+    "subtitle": "Creamos espacios excepcionales con infraestructura y servicios de primera, ubicados estratégicamente para mejorar tu calidad de vida",
+    "contactButton": "Contáctanos",
+    "projectsButton": "Ver Proyectos"
+  },
+  "about": {
+    "title": "Antecedentes",
+    "description1": "Desde 2010, INMOVILIA se ha consolidado como una empresa líder en el desarrollo de proyectos inmobiliarios intraurbanos de alta calidad. Nos especializamos en la creación de espacios que mejoran la calidad de vida de nuestros clientes.",
+    "description2": "Nuestro enfoque se centra en el desarrollo de proyectos estratégicamente ubicados, con infraestructura y servicios de primera calidad, garantizando inversiones sólidas y sustentables para nuestros clientes.",
+    "services": {
+      "title": "Nuestros Servicios",
+      "building": "EDIFICACIÓN",
+      "commercialization": "COMERCIALIZACIÓN",
+      "investment": "PROYECTOS DE INVERSIÓN",
+      "marketStudies": "ESTUDIOS DE MERCADO",
+      "alliances": "ALIANZAS Y COINVERSIONES",
+      "financing": "FUENTES DE FINANCIAMIENTO",
+      "propertyManagement": "ADMINISTRACIÓN DE INMUEBLES",
+      "procedures": "TRÁMITES"
+    }
+  },
+  "proposal": {
+    "since": "Desde el 03 de Junio del 2010",
+    "title": "Nuestra Propuesta Inmobiliaria",
+    "subtitle": "INMOVILIA S.A. de C.V. se creó buscando que nuestros desarrollos sean Intraurbanos para dar una respuesta eficiente a las necesidades de nuestros clientes. Nos enfocamos en dos vertientes principales para ofrecer la mejor solución inmobiliaria.",
+    "features": {
+      "ownDevelopments": {
+        "title": "Desarrollos Propios",
+        "description": "Creamos desarrollos intraurbanos con infraestructura y servicios existentes, garantizando la mejor calidad de vida para nuestros clientes."
+      },
+      "strategicLocation": {
+        "title": "Ubicación Estratégica",
+        "description": "Nuestros desarrollos cuentan con vialidades de fácil acceso y desplazamiento, siendo la ubicación uno de nuestros elementos diferenciadores."
+      },
+      "efficientResponse": {
+        "title": "Respuesta Eficiente",
+        "description": "Nos enfocamos en dar una respuesta eficiente a las necesidades de nuestros clientes a través de desarrollos bien planificados."
+      },
+      "supplyGeneration": {
+        "title": "Generación de Oferta",
+        "description": "Desarrollamos proyectos dentro de fraccionamientos y zonas ya desarrolladas, aprovechando la infraestructura existente."
+      }
+    }
+  },
+  "missionVision": {
+    "title": "Misión y Visión",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Ser la empresa líder en atención integral a nuestros clientes, inversionistas y aliados estratégicos en desarrollos inmobiliarios, para satisfacer y lograr confianza total, basados en un equipo experimentado de profesionales en el ramo."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Ser reconocidos como la empresa líder en el desarrollo de proyectos inmobiliarios intraurbanos, caracterizados por su calidad, innovación y compromiso con nuestros clientes."
+    }
+  },
+  "currentProjects": {
+    "title": "Proyectos en Proceso",
+    "subtitle": "Descubre nuestros desarrollos inmobiliarios en construcción",
+    "viewProject": "Ver Proyecto",
+    "location": "Ubicación",
+    "units": "Unidades"
+  },
+  "completedProjects": {
+    "title": "Proyectos Concluidos",
+    "subtitle": "Conoce nuestros desarrollos inmobiliarios terminados",
+    "completed": "Concluido",
+    "location": "Ubicación",
+    "units": "Unidades"
+  },
+  "prototypes": {
+    "title": "Prototipos",
+    "subtitle": "Explora nuestros modelos de vivienda diseñados para ti",
+    "requestInfo": "Solicitar Información",
+    "details": {
+      "area": "Área",
+      "bedrooms": "Recámaras",
+      "bathrooms": "Baños",
+      "type": "Tipo"
+    },
+    "models": {
+      "dalea": {
+        "description": "Diseño contemporáneo con amplios espacios y acabados de lujo."
+      },
+      "pinus": {
+        "description": "Espacios optimizados con diseño moderno y funcional."
+      }
+    },
+    "imagePreview": {
+      "counter": "{current} / {total}",
+      "close": "Cerrar",
+      "prev": "Anterior",
+      "next": "Siguiente"
+    }
+  },
+  "team": {
+    "title": "Quiénes Integramos INMOVILIA",
+    "subtitle": "Un equipo de profesionales con amplia experiencia en el sector inmobiliario",
+    "members": {
+      "director": {
+        "name": "Mario Danilo Elizondo Lomelí",
+        "role": "Director General",
+        "description": "Ingeniero Mecánico-Electricista, con más de 25 años de experiencia en el ramo inmobiliario. Ha sido Director Nacional de Operaciones en empresa vivienda con producción anual de 15,000 viviendas, Director Regional de la Zona Metropolitana de Guadalajara para Urbi."
+      },
+      "finance": {
+        "name": "Octavio Javalera Espinoza",
+        "role": "Director de Administración y Finanzas",
+        "description": "Contador Público, Maestría en Administración Financiera, 24 años de experiencia en el sector de construcción e inmobiliario, desempeñando puestos de Contralor de Plaza y Director de Administración y Finanzas."
+      },
+      "construction": {
+        "name": "Antonio Cuevas Pichardo",
+        "role": "Gerente de Construcción",
+        "description": "Ingeniero Civil con más de 20 años de experiencia como Gerente de Obra con más de 5000 viviendas construidas durante toda su carrera profesional, actualmente como Gerente de Construcción."
+      },
+      "legal": {
+        "name": "Sergio Ramírez Aparicio",
+        "role": "Asesor Legal",
+        "description": "Licenciado en Derecho con más de 20 años de experiencia, desempeñándose dentro de la iniciativa privada como abogado postulante y representante de la empresa de Dinámica Desarrollos Sustentables SA de CV y actualmente dentro de la iniciativa privada como abogado postulante prestando servicio para diferentes grupos inmobiliarios entre ellos INMOVILIA."
+      }
+    }
+  },
+  "organization": {
+    "title": "Organigrama",
+    "subtitle": "Estructura organizacional diseñada para la excelencia",
+    "roles": {
+      "director": {
+        "title": "DIRECTOR GENERAL",
+        "name": "ING. MARIO DANILO ELIZONDO LOMELI"
+      },
+      "commercial": {
+        "title": "GESTOR COMERCIAL",
+        "name": "SERGIO RAMIREZ APARICIO"
+      },
+      "finance": {
+        "title": "ADMINISTRACION Y FINANZAS",
+        "name": "OCTAVIO JAVALERA ESPINOZA"
+      },
+      "construction": {
+        "title": "GERENTE DE CONSTRUCCIÓN",
+        "name": "ANTONIO CUEVAS PICHARDO"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para responder tus preguntas y ayudarte a encontrar tu hogar ideal",
+    "info": {
+      "address": {
+        "title": "Dirección",
+        "value": "CALLE BUENOS AIRES 2770 INT 2A, Colonia Providencia, C.P. 44630, Guadalajara, Jalisco"
+      },
+      "phone": {
+        "title": "Teléfonos",
+        "values": ["(33) 3165 9381", "(33) 2152 2219"]
+      },
+      "email": {
+        "title": "Correo Electrónico",
+        "value": "contacto@inmovilia.com"
+      }
+    },
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "Mensaje enviado correctamente",
+      "error": "Error al enviar el mensaje",
+      "validation": {
+        "nameRequired": "El nombre es requerido",
+        "emailInvalid": "Email inválido",
+        "phoneInvalid": "Teléfono inválido",
+        "messageLength": "El mensaje debe tener al menos 10 caracteres",
+        "emailError": "Error al enviar el email. Por favor intenta de nuevo.",
+        "generalError": "Error al enviar el mensaje. Por favor intenta de nuevo."
+      }
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "INMOVILIA",
+      "subtitle": "INFORMACIÓN Y VENTAS"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "rights": "© 2024 INMOVILIA. Todos los derechos reservados."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "background": "Antecedentes",
+    "proposal": "Propuesta",
+    "projects": "Proyectos",
+    "prototypes": "Prototipos",
+    "contact": "Contáctanos",
+    "inDevelopment": "En Desarrollo",
+    "completed": "Concluidos"
+  },
+  "projects": {
+    "current": {
+      "porto": {
+        "title": "PORTO RESIDENCIAL",
+        "location": "Nuevo Vallarta",
+        "units": "43 unidades"
+      }
+    },
+    "completed": {
+      "altariaZapopan": {
+        "title": "ALTARIA RESIDENCIAL",
+        "location": "Zapopan, Jalisco",
+        "units": "352 viviendas"
+      },
+      "altariaIguala": {
+        "title": "ALTARIA RESIDENCIAL",
+        "location": "Iguala, Guerrero",
+        "units": "20 viviendas"
+      },
+      "sanMarino": {
+        "title": "SAN MARINO",
+        "location": "Rosarito, Baja California",
+        "units": "18 lotes"
+      },
+      "platinum": {
+        "title": "PLATINUM",
+        "location": "Tonalá, Jalisco",
+        "units": "18 unidades"
+      }
+    }
+  },
+  "prototypeDetails": {
+    "dalea": {
+      "name": "DALEA",
+      "type": "Casa",
+      "area": "150m²",
+      "description": "Diseño contemporáneo con amplios espacios y acabados de lujo."
+    },
+    "pinus": {
+      "name": "PINUS",
+      "type": "Casa",
+      "area": "113m²",
+      "description": "Espacios optimizados con diseño moderno y funcional."
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "retry": "Intentar de nuevo"
+  }
+} 
